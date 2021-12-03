@@ -16,4 +16,4 @@ const a = 'a';
 
 const p = 'petya';
 
-const v;
+const v = 1;
