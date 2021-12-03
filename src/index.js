@@ -11,3 +11,5 @@ function f() {
 }
 
 f();
+
+const a = 'a';
