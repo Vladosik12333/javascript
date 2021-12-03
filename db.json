@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "I owner of the project. It means what I absolute (head) admin",
+      "author": "Head Admin",
+      "id": 2
+    },
+    {
+      "author": "Vlad",
+      "title": "Owner",
+      "id": 3
+    }
+  ]
+}
