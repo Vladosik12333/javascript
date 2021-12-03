@@ -13,3 +13,5 @@ function f() {
 f();
 
 const a = 'a';
+
+const p = 'petya';
